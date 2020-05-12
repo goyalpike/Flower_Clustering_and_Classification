@@ -15,7 +15,7 @@ Additionl Materials:
 By following [a PyTorch tutorial](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html), the VGG16 network is fine-tuned using PyTorch and all necessary steps are implemented from skretch.
 
 ## [Classification implementation using Fastai](Flower_Classification_Fastai.ipynb)
-The [Fastai library](https://docs.fast.ai/) is used to fine the VGG16 network. Fatsai is a high-level API for PyTorch. It has some nice features included such as a fancy image augumentation. 
+The [Fastai library](https://docs.fast.ai/) is used to fine the VGG16 network. Fatsai is a high-level API for PyTorch. It has some nice features such as a fancy image augumentation. 
 
 
   
