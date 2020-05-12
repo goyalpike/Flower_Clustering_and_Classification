@@ -1,0 +1,1 @@
+In this repository, we study unsupervised learning (clustering) and classification problem using the [Flower data set](https://www.robots.ox.ac.uk/~vgg/data/flowers/). In this repo, a small subset of the original data is used.
