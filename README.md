@@ -2,7 +2,7 @@ In this repository, we study unsupervised learning (clustering) and classificati
 
 There are three implementations:
 
-### Clustering based approach
+### [Clustering based approach](Flower_Visualization_Unsupervised.ipynb)
   * [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis) (PCA)
   * [t-Distributed Stochastic Neighbor Embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) (t-SNE)
   * [Uniform Manifold Approximation and Projection](https://arxiv.org/abs/1802.03426) (UMAP)
