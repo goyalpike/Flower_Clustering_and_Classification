@@ -1,0 +1,19 @@
+# basic required packages; feel free more as par your requirements.
+
+fastai2
+fastcore 
+torch>=1.3.0
+torchvision>=0.5 
+matplotlib 
+pandas 
+requests 
+pyyaml 
+fastprogress>=0.1.22 
+pillow 
+pip
+scikit-learn 
+scipy 
+spacy
+
+nbdev
+azure-cognitiveservices-search-imagesearch
